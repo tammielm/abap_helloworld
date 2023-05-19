@@ -15,6 +15,6 @@ CLASS Z_CLASS_YYY IMPLEMENTATION.
 
 
 METHOD if_oo_adt_classrun~main.
-  out->write( 'Hello world!' ).
+out->write('Hello world!').
 ENDMETHOD.
 ENDCLASS.
